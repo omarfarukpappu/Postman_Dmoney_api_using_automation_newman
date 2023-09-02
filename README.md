@@ -16,4 +16,9 @@
 https://documenter.getpostman.com/view/29168453/2s9Y5bR2E1
 ## Test Report
 ![image](https://github.com/omarfarukpappu/Postman_Dmoney_api_using_automation_newman/assets/124276661/916a9e59-3751-40e1-973e-c4ae33960828)
+## Test Case
+[Test Case.xlsx](https://github.com/omarfarukpappu/Postman_Dmoney_api_using_automation_newman/files/12503345/Test.Case.xlsx)
+## Bug Report
+[Bug Report.xlsx](https://github.com/omarfarukpappu/Postman_Dmoney_api_using_automation_newman/files/12503347/Bug.Report.xlsx)
+
 
